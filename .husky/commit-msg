@@ -1,5 +1,6 @@
 #!/bin/sh
 
+
 commit_msg_file=$1
 commit_msg=$(cat $1)
 
